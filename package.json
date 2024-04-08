@@ -1,0 +1,11 @@
+{
+  "name": "solid_principles",
+  "version": "1.0.0",
+  "description": "Codebase for SOLID Principles",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "author": "sixLUKEY",
+  "license": "ISC"
+}

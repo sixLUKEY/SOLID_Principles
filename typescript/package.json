@@ -1,0 +1,15 @@
+{
+  "name": "solid-typescript",
+  "version": "1.0.0",
+  "description": "SOLID principles in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "author": "sixLUKEY",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.4",
+    "ts-node": "^10.9.2"
+  }
+}
